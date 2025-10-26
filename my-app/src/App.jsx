@@ -1,36 +1,17 @@
-
 import './App.css'
+import Main from "./components/Main"
+import Header from "./components/Header"
 
 function App() {
  
 
   return (
     <>
-      
-      <Title/>
-      <Header/>
-      <Main/>
-      </>
-       
-  )
+    <Header/>
+    <Main/>
+    
+      </>   
+  );
 }
 
-function Title(){
-  return(
-    <p>Hello world</p>
-  )
-}
-
-function Header(){
-  return(
-    <h1>Regan Gibson</h1>
-  )
-}
-
-function Main() {
-  return(
-    <p>Welcome to my Photography page</p>
-  )
-}
-
-export default App
+export default App;
