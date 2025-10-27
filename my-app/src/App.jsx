@@ -1,17 +1,19 @@
 import './App.css'
 import Main from "./components/Main"
 import Header from "./components/Header"
+import Entry from "./components/Entry"
 
 function App() {
  
 
   return (
-    <>
-    <Header/>
-    <Main/>
-    
-      </>   
-  );
+      <>
+            <Header />
+            <main className="container">
+                <Entry />
+            </main>
+        </> 
+  )
 }
 
 export default App;
