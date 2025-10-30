@@ -17,7 +17,9 @@ function App() {
                 location = "Montenagro"
                 link = "https://www.google.com/maps/place/Kotor,+Montenegro/@42.4242999,18.7705761,1805m/data=!3m2!1e3!4b1!4m6!3m5!1s0x134c33063d70c91b:0x7a73f15e212e9306!8m2!3d42.424662!4d18.771234!16zL20vMDFwam4w?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D"
                 date= "12 June, 2025 - 19 June, 2025"
-                information="Kotor, Montenegro, is a stunning coastal town set on the Adriatic Sea, famous for its well-preserved medieval old town, winding stone streets, and dramatic bay surrounded by steep mountains. Enclosed by ancient Venetian walls, Kotor offers a blend of history, culture, and breathtaking scenery — a UNESCO World Heritage Site that feels like a step back in time."
+                information="I visited Kotor, Montenegro in July 2025. This beautiful coastal town is famous for its stunning Adriatic scenery, where dramatic mountains meet the sea. Kotor boasts a well-preserved medieval old town, filled with narrow cobblestone streets, charming traditional restaurants, and popular tourist spots that attract over two million visitors each year.
+                            During our trip, we took the famous cable car up into the mountains, where we enjoyed breathtaking views and even rode a small roller coaster at the summit. There are plenty of activities in and around Kotor, along with many shops, cafés, and restaurants to explore.
+                            Overall, it was an amazing experience—a perfect mix of nature, history, and culture—and a destination I would highly recommend to anyone visiting Montenegro. "
                 />
 
                 
@@ -28,10 +30,7 @@ function App() {
                 location = "Bulgaria"
                 link = "https://www.google.com/maps/place/2010+%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D1%86,+Bulgaria/@42.2724875,23.5855834,7246m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14ab3c9b6660506b:0xa00a014cd0f8790!8m2!3d42.2706675!4d23.6056165!16zL20vMDloem1n?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D"
                 date= "1 January, 2025 - 7 January, 2025"
-                information="Borovets is a mountain resort in Bulgaria, located on the northern slopes of the Rila Mountains, within the municipality of Samokov in Sofia Province.
-                            It sits at an elevation of around 1,300 m at its base, with ski slopes reaching up to around 2,500 m. 
-                            It is approximately 70–75 km from the Bulgarian capital, Sofia
-"
+                information="Bulgaria’s Rila Mountains, Borovets, is one of the country’s most popular ski resorts. It was our first skiing trip, where we not only learned to ski but also had the chance to enjoy local food, culture, and the mountain atmosphere. We even reached the top of the Rila Mountains, at an impressive altitude of about 2,500 meters."
               
               />
               <Entry
