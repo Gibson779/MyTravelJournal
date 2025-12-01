@@ -12,13 +12,13 @@ body {
 
 
 header {
-    background: #f45959;
+    background: #c3c3c3;
     display: flex;
     justify-content: center;
     align-items: center;
     color: white;
-    height: 55px;
-    border-radius: 15px;
+    height: 100px;
+   
 }
 header > img {
     width: 27px;
