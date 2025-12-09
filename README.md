@@ -8,7 +8,7 @@ A personal travel journal app built with React, designed to let users record, or
 
 🌍 Interactive and visually appealing destination cards
 
-💾 Persistent data storage (via local storage / API backend)
+💾 Persistent data storage (via local storage)
 
 📱 Fully responsive design for mobile and desktop
 
