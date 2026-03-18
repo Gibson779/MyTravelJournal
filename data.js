@@ -20,7 +20,7 @@ export default [
             src: "../images/Bulgaria.jpg",
             alt: "Borovets"
         },
-        title: "Bulgariar",
+        title: "Bulgaria",
         country: "Bulgaria",
         googleMapsLink:  "https://www.google.com/maps/place/2010+%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B5%D1%86,+Bulgaria/@42.2724875,23.5855834,7246m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14ab3c9b6660506b:0xa00a014cd0f8790!8m2!3d42.2706675!4d23.6056165!16zL20vMDloem1n?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D",
         dates: "1 January, 2025 - 7 January, 2025",
